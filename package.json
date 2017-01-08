@@ -1,0 +1,22 @@
+{
+  "name": "irc-bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Monsquaz/irc-bot.git"
+  },
+  "author": "Patrik Weibull",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Monsquaz/irc-bot/issues"
+  },
+  "homepage": "https://github.com/Monsquaz/irc-bot#readme",
+  "dependencies": {
+    "irc-framework": "^2.5.3"
+  }
+}
